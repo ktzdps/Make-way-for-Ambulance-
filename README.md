@@ -1,12 +1,12 @@
 # Make-way-for-Ambulance-
 
-## ABSTRACT
+## ABSTRACT ##
 
 An ambulance which seems not to reach the patients on time and leads to the loss of their lives. 
 Getting the shortest path to the ambulance as their guidance can make the work of the driver easier. The driver can reach the patients at a minimal time. 
 This project is for a social cause which can help people in dire need of an ambulance at emergency.
 
-# INTRODUCTION
+## INTRODUCTION ##
 
 An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals. Typically, out-of-hospital medical care is provided to the patient. Ambulances are used to respond to medical emergencies by emergency medical services.
 Ambulance, a vehicle which when fast can save a priceless life in minutes. But this isn’t the reality. The sad part about this vehicle is that nowadays because of mushrooming traffic it can’t be fast as “FLASH”. Researching around the on-going scenario we found why not optimized the route for an ambulance. 
