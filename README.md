@@ -1,6 +1,6 @@
 # Make-way-for-Ambulance-
 
-# ABSTRACT
+## ABSTRACT
 
 An ambulance which seems not to reach the patients on time and leads to the loss of their lives. 
 Getting the shortest path to the ambulance as their guidance can make the work of the driver easier. The driver can reach the patients at a minimal time. 
